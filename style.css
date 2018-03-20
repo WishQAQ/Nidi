@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Bamboo;
+    src: url("Bamboo.ttf");
+}
+
 *{
     padding: 0;
     margin: 0;
@@ -20,13 +25,13 @@ body{
 
 p{
     color: #656565;
-    font-family:'lanzhufeng10e64c2f421c34b';
+    font-family: Bamboo;
     line-height: 26px;
 }
 
 h2{
     color: #555555;
-    font-family:'lanzhufeng10e64c2f421c34b';
+    font-family: Bamboo;
     margin: 20px 0;
 }
 
